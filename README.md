@@ -12,3 +12,7 @@ A simple to-do list web app that allows users to add tasks and mark them as comp
 - **HTML** for the structure
 - **CSS** for styling
 - **JavaScript** for functionality
+
+## GitHub Pages: 
+
+Live at https://jszor.github.io/to-do-list/
