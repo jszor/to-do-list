@@ -8,10 +8,7 @@ Current –
 
 - **Add New Tasks**: Input a task in the text field and click "Add" to include it in the to-do list.
 - **Mark Tasks as Complete**: Click the checkbox next to a task to mark it as completed. The text will be crossed out.
-
-To be added –
-
-- **Delete Finished Tasks**: Remove a task from the list that has been completed and crossed off. 
+- **Delete Finished Tasks**: Remove a task from the list that has been completed and crossed off by double-clicking it.
 
 ## Built using
 
