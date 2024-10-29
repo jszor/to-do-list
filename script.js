@@ -10,6 +10,11 @@ function crossOffTask(checkbox, task) {
             task.style.textDecoration = 'none';
         }
     });
+    task.addEventListener('dblclick', function() {
+        if (checkbox.checked) {
+            task.remove();
+        }
+    });
 }
 function addTask() {
     let task = document.createElement('li');
