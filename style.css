@@ -56,6 +56,10 @@ li {
     list-style-type: none;
 }
 
+li:hover, button:hover {
+    cursor: pointer;
+}
+
 input[type="checkbox"] {
     margin: 10px 10px 0px 0px;
     width: 14px;
